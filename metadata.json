@@ -1,0 +1,6 @@
+{
+  "name": "Mühasib Pro",
+  "description": "Müasir gəlir-xərc uçotu, avtomatik hesabatlar, müştəri portalı və bildirişlər sistemi ilə tam mühasibat tətbiqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
